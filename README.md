@@ -1,4 +1,4 @@
-# 🎮 Proyecto Final de Curso – Juego en C++
+# 🎮 Proyecto Final de Curso – Pokemon en C++
 
 Este repositorio contiene el código fuente de un **juego desarrollado en C++** como parte de un proyecto final de curso.  
 El objetivo principal es **aprender y poner en práctica conceptos de programación**, no crear un producto comercial.
