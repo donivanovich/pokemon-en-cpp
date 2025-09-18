@@ -1,0 +1,9 @@
+1500 15 10
+1
+Charmander
+Charmander Fuego  5 0 10 7 6 12 18 18 23
+0
+0
+0
+0
+0
